@@ -96,6 +96,7 @@ public class Main {
                 array1[i] += 1;
             }
         }
+
         System.out.println(Arrays.toString(array1));
     }
 }
